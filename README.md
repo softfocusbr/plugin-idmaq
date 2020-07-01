@@ -11,9 +11,6 @@ Plugin Idmaq para incorporação em sites genéricos.
 
 - Inserir no HTML a tag idmaq-plugin. Será através dela que será criado o botão de cadastro no site do IMDAQ.
 ```html
-<link rel="stylesheet" href="css/idmaq-plugin.css">
-<script src="js/idmaq-plugin.js"></script>
-```html
 <idmaq-plugin token="" />
 ```
 
