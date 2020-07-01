@@ -30,4 +30,4 @@ Plugin Idmaq para incorporação em sites genéricos.
 
 
 ### Métodos
-- Após um maquinário ser cadastrado com sucesso, o mesmo irá retornar um pincode, que é a identificação da máquina. O mesmo poderá ser acessado logo após o fechar o popup, através do comando `IdmaqPlugin.getIdmaqPinCode()`.
+- Após um maquinário ser cadastrado com sucesso, o mesmo irá retornar um pincode, que é a identificação da máquina. O mesmo poderá ser acessado logo após fechar o popup, através do comando `IdmaqPlugin.getIdmaqPinCode()`.
